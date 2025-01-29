@@ -7,5 +7,5 @@ This Project involves developing a user-friendly expense tracker application.Key
 > EC2 (Virtual Machine Instance)
 - Monitoring Traffic
 
-Prometheus
+> Prometheus
 

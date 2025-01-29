@@ -7,5 +7,17 @@ This Project involves developing a user-friendly expense tracker application.Key
 > EC2 (Virtual Machine Instance)
 >> Prometheus
 > - Monitor performance and metrics and containers
+>> Grafana
+> -
+>> Node Explorer
+> -
+>>Traefik
+> -
+>> cAdvisor
+> -
+>> goaccess
+> -
+>>
+> -
 
 

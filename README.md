@@ -3,6 +3,9 @@ Ledgerly App For Project Wing'25
 
 This Project involves developing a user-friendly expense tracker application.Key features include a receipt scanner, insightful analytics dashboards, and a robust DevOps infrastructure for scalability ad reliability.
 
+## Overview
+<img src = "https://res.cloudinary.com/dmumxten1/image/upload/v1738249086/WhatsApp_Image_2025-01-27_at_22.33.32_b4ctqh.jpg">
+
 ### Cloud Service Used - AWS
 > **EC2 (Virtual Machine Instance)**
 >> Prometheus

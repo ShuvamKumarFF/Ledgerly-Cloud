@@ -6,9 +6,9 @@ This Project involves developing a user-friendly expense tracker application.Key
 ### Cloud Service Used - AWS
 > **EC2 (Virtual Machine Instance)**
 >> Prometheus
-> - Monitor performance and metrics of containers.
+> - Collecting detailed metrics and offers a robust querying language for data analysis
 >> Grafana
-> -
+> - Focuses on converting these metrics into insightful visualizations.
 >> Node Explorer
 > -
 >>Traefik

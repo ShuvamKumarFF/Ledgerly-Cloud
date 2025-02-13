@@ -417,9 +417,9 @@ traefik         traefik:latest                                     "/entrypoint.
 
 This project was made for Project Wing 2025 by [MLSAKIIT](https://mlsakiit.com/).
 
-- Sourasish Basu ([@SourasishBasu](https://github.com/SourasishBasu)) - [MLSA KIIT](https://mlsakiit.com)
+- Shuvam Kumar Sahu ([@ShuvamKumarSahu](https://github.com/shuvamkr69)) - [MLSA KIIT](https://mlsakiit.com)
 
 ## Version
 | Version | Date          		| Comments        |
 | ------- | ------------------- | --------------- |
-| 1.0     | Dec 29th, 2024   | Initial release |
+| 1.0     | Feb 3rd , 2024   | Initial release |
